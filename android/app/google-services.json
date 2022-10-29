@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "924961252288",
+    "project_id": "karandasiparis-ad8d5",
+    "storage_bucket": "karandasiparis-ad8d5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:924961252288:android:191fdaae2c1d7fec9ade25",
+        "android_client_info": {
+          "package_name": "com.sametozalp.siparis.siparis"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "924961252288-afalcc5vbog1n3ok08ehg4p2ip8ps10r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIQiohI42Y14gTa0BNcZJnH4KzcZqzAds"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "924961252288-afalcc5vbog1n3ok08ehg4p2ip8ps10r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
